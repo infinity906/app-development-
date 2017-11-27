@@ -8,6 +8,15 @@ is there any new changes in the git repository which is not yet made in my local
 3. git add "filename.extention"
 	This command is used to add the file which is in my local directory but not yet added to the github repository.
 
-4. git commit
-	this command is to cormfirm the file that is to be added at github repository
+4. git commit -m "message"
+	this command is to cormfirm the file that is to be added at github repository along with the any 
+message specifying the purpose of the file or any changes made to it
 
+5. git push
+	Command to push the contents of github repository to github.com
+
+6. git pull
+	command to pull and new changes made in github repository into your local system.
+
+7. git add -A
+	Add everything into github repository
