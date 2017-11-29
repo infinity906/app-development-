@@ -20,3 +20,11 @@ message specifying the purpose of the file or any changes made to it
 
 7. git add -A
 	Add everything into github repository
+
+8. git log (for reverting to previous made changes)
+	Shows the commit logs for our repository
+
+9. git show "enter the commit sequence"
+	to view what changes were made during this commit
+
+10. 
