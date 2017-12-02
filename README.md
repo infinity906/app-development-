@@ -1,2 +1,2 @@
-# app-development-
-using ionic
+# Github tutorial
+commands for using github
